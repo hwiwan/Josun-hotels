@@ -1,2 +1,0 @@
-# Josun-hotels
-portfolio project
