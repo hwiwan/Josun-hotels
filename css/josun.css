@@ -1160,7 +1160,7 @@ footer{
     cursor: pointer;
 }
 #section6 .ffooter .foot .foot-main .btn .up-btn{display: none;}
-#section6 .ffooter .foot .foot-main .btn .up-btn.on.on{display: block;}
+#section6 .ffooter .foot .foot-main .btn .up-btn.on{display: block;}
 #section6 .ffooter .foot .foot-main .btn .down-btn.on{display: none;}
 #section6 .ffooter .foot address{
     color: white; 
